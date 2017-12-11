@@ -1,6 +1,8 @@
-## DOWNLOAD / СКАЧАТЬ
+## DOWNLOAD / СКАЧАТЬ [![Stability stable](https://img.shields.io/badge/stability-stable-brightgreen.svg?style=flat)](https://mega.nz/#!bEpyXaZY!lPu9UniNtI5-hU_6v1c0G-oGv1OMOd9pk_6ZpIejkO8)
 
-[![Release Version](https://img.shields.io/badge/version-release-brightgreen.svg?style=flat)](https://mega.nz/#!jIxR3TrJ!bRpAeNSrmdZU61FolANNJboHnVqaSmAE6IFP6-AtwrA)
+[![Version 1.1](https://img.shields.io/badge/version-1.1-yellow.svg?style=flat)](https://mega.nz/#!bEpyXaZY!lPu9UniNtI5-hU_6v1c0G-oGv1OMOd9pk_6ZpIejkO8)
+
+---
 
 ## INFO / ИНФОРМАЦИЯ
 
