@@ -1,0 +1,62 @@
+/*
+ * @ended      05.12.2017
+ * @package    TeamSpeak 3 Style
+ * @author     Alexandr Musikhin 'tophackr' <tophackr@icloud.com>
+ * @link       https://tophackr.com
+ */
+QWidget {
+    border: transparent;
+}
+
+QTabWidget::tab-bar {
+    alignment: left;
+}
+
+QTreeView::branch:selected {
+    background-color: rgb(29,29,29);
+}
+
+QHeaderView::down-arrow {
+    image: url('styles:DarkenTS/gfx/gui/arrows/down.svg');
+}
+
+QHeaderView::up-arrow {
+    image: url('styles:DarkenTS/gfx/gui/arrows/up.svg');
+}
+
+QScrollBar:vertical {
+    background-color: transparent;
+    width: 4px;
+}
+
+QScrollBar:horizontal {
+    height: 4px;
+    background-color: transparent;
+}
+
+QComboBox::item {
+    background: transparent;
+    selection-background-color: rgb(62,79,94);
+}
+
+QComboBox QAbstractItemView {
+    border: 1px solid rgb(28,30,34);
+}
+
+QComboBox::indicator:checked {
+    image: url('styles:DarkenTS/gfx/gui/controls/checkbox_checked.svg');
+}
+
+QComboBox::separator {
+    height: 1px;
+    margin-right: 1px;
+    background-color: rgb(85,85,85);
+}
+
+QRadioButton::indicator,
+QListView::indicator,
+QCheckBox::indicator,
+QGroupBox::indicator,
+QTreeView::indicator {
+    margin: 2px 2px 2px 0;
+}

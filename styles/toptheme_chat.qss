@@ -1,0 +1,107 @@
+/*
+ * @ended      05.12.2017
+ * @package    TeamSpeak 3 Style
+ * @author     Alexandr Musikhin 'tophackr' <tophackr@icloud.com>
+ * @link       https://tophackr.com
+ */
+
+/* @group Global Elements */
+
+p {
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    color: #37E1CB;
+}
+
+/* @end */
+
+/* @group Object Link Elements */
+
+.TextMessage_UserLink {
+    color: #0E837F;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.TextMessage_OfflineLink,
+.TextMessage_ChannelLink,
+.TextMessage_ServerLink {
+    color: #0E837F;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* @end */
+
+/* @group Colored Message Elements */
+
+.TextMessage_HostName {
+    color: #545454;
+    font-weight: bold;
+}
+
+.TextMessage_Welcome,
+.TextMessage_HostMessage,
+.TextMessage_Poke  {
+    color: #0AA537;
+}
+
+.TextMessage_Normal,
+.TextMessage_Connected,
+.TextMessage_ClientConnected,
+.TextMessage_ClientJoined,
+
+.TextMessage_Disconnected,
+.TextMessage_ClientDisconnected,
+.TextMessage_ClientSwitched,
+.TextMessage_ClientLeft,
+
+.TextMessage_ChannelCreated,
+.TextMessage_ChannelDeleted,
+.TextMessage_ChannelEdited,
+.TextMessage_ChannelMoved,
+.TextMessage_ServerEdited,
+
+.TextMessage_GroupAssigned,
+.TextMessage_GroupRevoked,
+.TextMessage_TalkPowerAssigned,
+.TextMessage_TalkPowerRevoked,
+.TextMessage_TalkPowerRequested {
+    color: #545454;
+}
+
+.TextMessage_ClientDropped,
+.TextMessage_ClientKicked,
+.TextMessage_ClientBanned {
+    color: #C9070A;
+}
+
+/* @end */
+
+/* @group Time and History Elements */
+
+.TextMessage_Time {
+    color: #545454;
+    font-weight: normal;
+}
+
+.TextMessage_BeginHistory,
+.TextMessage_EndHistory {
+    color: #707475;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* @end */
+
+/* @group Error Message Elements */
+
+.TextMessage_ServerError {
+    color: #C9070A;
+    font-weight: bold;
+}
+
+/* @end */
