@@ -1,6 +1,6 @@
-## DOWNLOAD / СКАЧАТЬ [![Stability stable](https://img.shields.io/badge/stability-stable-brightgreen.svg?style=flat)](https://mega.nz/#!bEpyXaZY!lPu9UniNtI5-hU_6v1c0G-oGv1OMOd9pk_6ZpIejkO8)
+## DOWNLOAD / СКАЧАТЬ [![Stability stable](https://img.shields.io/badge/stability-stable-brightgreen.svg?style=flat)](https://mega.nz/#!PdBlxSzb!y1lhjppQyudmx7VfpAQ4GF7owPC_3ukiT-5cgUBdJqA)
 
-[![Version 1.2](https://img.shields.io/badge/version-1.2-yellow.svg?style=flat)](https://mega.nz/#!bEpyXaZY!lPu9UniNtI5-hU_6v1c0G-oGv1OMOd9pk_6ZpIejkO8)
+[![Version 1.2](https://img.shields.io/badge/version-1.2-yellow.svg?style=flat)](https://mega.nz/#!PdBlxSzb!y1lhjppQyudmx7VfpAQ4GF7owPC_3ukiT-5cgUBdJqA)
 
 ---
 
