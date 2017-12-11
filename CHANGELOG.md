@@ -1,6 +1,6 @@
 === 1.2 - 11.12.2017
 
-\- Removing channelinfo_ru.tpl  \
+\- Removing channelinfo_ru.tpl  
 \* Fixing status icons for Windows  
 \* Renaming ChangeLog.txt to change.log
 
