@@ -1,6 +1,6 @@
 ## INFO / ИНФОРМАЦИЯ
 
-[![Version 1.2](https://img.shields.io/badge/version-1.2-brightgreen.svg?style=flat)](https://gitlab.com/tophackr/toptheme/tags/Release_v1.2)
+[![Version 1.2.1](https://img.shields.io/badge/Release-v1.2.1-brightgreen.svg?style=for-the-badge)](https://gitlab.com/tophackr/toptheme/tags/Release_v1.2.1)
 
 **EN:**
 
