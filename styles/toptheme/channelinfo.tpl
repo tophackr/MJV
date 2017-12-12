@@ -20,7 +20,7 @@
     <tr>
         <th>Name:</th>
         <td><a href="channelid://%%CHANNEL_ID%%" class="green url" title="Channel Order: %%CHANNEL_ORDER%%">%%CHANNEL_NAME%%</a> / <span class="yellow">%%CHANNEL_ID%%</span>
-            <span class="black"> / </span><span class="dred">%%?CHANNEL_FLAGS%%</span>
+            <span> / </span><span class="dred">%%?CHANNEL_FLAGS%%</span>
         </td>
     </tr>
 
@@ -37,7 +37,7 @@
     <tr>
         <th>Current:</th>
         <td><span class="green">%%CHANNEL_CLIENTS_COUNT%%</span> / <span class="red">%%CHANNEL_MAXCLIENTS%%</span> / <span class="yellow">%%CHANNEL_MAXFAMILYCLIENTS%%</span>
-        <span class="black"> / </span><span class="purple">%%?CHANNEL_NEEDED_TALK_POWER%%</span>
+        <span> / </span><span class="purple">%%?CHANNEL_NEEDED_TALK_POWER%%</span>
         </td>
     </tr>
 
