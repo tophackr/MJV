@@ -1,3 +1,10 @@
+=== 1.2.1 - 12.12.2017
+
+\- Removed license icon in serverinfo.tpl  
+\+ Added line License  
+\* Fix colors slash in serverinfo.tpl and channelinfo.tpl  
+\* Update conditions LICENSE
+
 === 1.2 - 11.12.2017
 
 \- Removing channelinfo_ru.tpl  
