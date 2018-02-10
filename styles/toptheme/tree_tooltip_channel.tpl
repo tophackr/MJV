@@ -5,28 +5,40 @@
     td {
         padding: 0px 4px 0px 1px;
     }
+
+    a.url {
+        text-decoration: none;
+    }
+
     .red {
         color: red;
     }
     .green {
         color: green;
     }
+    .yellow {
+        color: #DAA520;
+    }
     .purple {
         color: #aa00ff;
+    }
+    .dred {
+         color: #c9070a;
     }
 </style>
 
 <table id="tophackr">
     <tr>
         <th>Name:</th>
-        <td><span class="green">%%CHANNEL_NAME%%</span>
-            <span class="black"> / </span><span class="dred">%%?CHANNEL_FLAGS%%</span>
+        <td>
+            <span class="green">%%CHANNEL_NAME%%</span>
+            <span> / </span><span class="dred">%%?CHANNEL_FLAGS%%</span>
         </td>
     </tr>
 
     <tr>
         <th>Status:</th>
-        <td><img src="styles:/toptheme/img/status/%%CHANNEL_SUBSCRIPTION%%.png" height="12" width="12"> / <img src="styles:/toptheme/img/status/%%CHANNEL_VOICE_DATA_ENCRYPTED%%.png" height="12" width="12"></td>
+        <td><span class="green" title="Subscription Status: %%CHANNEL_SUBSCRIPTION%%">%%CHANNEL_SUBSCRIPTION%%</span> / <span class="red" title="Voice Data Encryption: %%CHANNEL_VOICE_DATA_ENCRYPTED%%">%%CHANNEL_VOICE_DATA_ENCRYPTED%%</span></td>
     </tr>
 
     <tr>
@@ -37,7 +49,7 @@
     <tr>
         <th>Current:</th>
         <td><span class="green">%%CHANNEL_CLIENTS_COUNT%%</span> / <span class="red">%%CHANNEL_MAXCLIENTS%%</span>
-            <span class="black"> / </span><span class="purple">%%?CHANNEL_NEEDED_TALK_POWER%%</span>
+            <span> / </span><span class="purple">%%?CHANNEL_NEEDED_TALK_POWER%%</span>
         </td>
     </tr>
 
