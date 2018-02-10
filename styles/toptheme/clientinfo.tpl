@@ -1,5 +1,10 @@
 <style type="text/css">
-    @import url('styles/toptheme/css/home.css');
+    th {
+        text-align: left;
+    }
+    td {
+        padding: 0px 4px 0px 1px;
+    }
 
     a.url {
         text-decoration: none;
@@ -14,13 +19,19 @@
     .yellow {
         color: #DAA520;
     }
+    .purple {
+        color: #aa00ff;
+    }
+    .dred {
+         color: #c9070a;
+    }
 </style>
 
 <table>
     <tr>
         <th title="%%CLIENT_FLAG_AVATAR%% / %%CLIENT_IGNORE_AVATAR%%">Nickname:</th>
         <td><a href="client://%%CLIENT_ID%%/%%CLIENT_UNIQUE_ID%%~%%CLIENT_NAME_PERCENT_ENCODED%%" class="green url">%%CLIENT_NAME%%</a>
-            <span class="black"> / </span><span class="purple">%%?CLIENT_VOLUME_MODIFIER%% dB</span>
+            <span> / </span><span class="purple">%%?CLIENT_VOLUME_MODIFIER%% dB</span>
         </td>
     </tr>
 
