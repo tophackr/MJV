@@ -1,3 +1,10 @@
+=== 1.2.2 - 10.02.2018
+
+\- Removing status icons in tree  
+\- Removing css path ang home.css  
+\* Update serverinfo.tpl for new version client (3.1.8+) and server (3.1.0+)  
+\* Minor Changes
+
 === 1.2.1 - 12.12.2017
 
 \- Removed license icon in serverinfo.tpl  
