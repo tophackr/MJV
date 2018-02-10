@@ -1,5 +1,10 @@
 <style type="text/css">
-    @import url('styles/toptheme/css/home.css');
+    th {
+        text-align: left;
+    }
+    td {
+        padding: 0px 4px 0px 1px;
+    }
 
     a.url {
         text-decoration: none;
@@ -13,6 +18,12 @@
     }
     .yellow {
         color: #DAA520;
+    }
+    .purple {
+        color: #aa00ff;
+    }
+    .dred {
+         color: #c9070a;
     }
 </style>
 
@@ -52,5 +63,7 @@
 </table>
 
 <hr>
+
+<table><tr><th>Nicknames:</th></tr><tr><td colspan="2">%%?SERVER_NICKNAMES%%</td></tr></table><hr>
 
 <table><tr><td colspan="2">%%?PLUGIN_INFO_DATA%%</td></tr></table><hr>
