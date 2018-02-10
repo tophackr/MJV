@@ -1,30 +1,33 @@
 <style type="text/css">
-    table {
-        border-collapse: collapse;
-        border-spacing: 0px;
-    }
     th {
         text-align: left;
     }
     td {
         padding: 0px 4px 0px 1px;
-        white-space: nowrap;
     }
-    .blue {
-        color: blue;
+
+    a.url {
+        text-decoration: none;
+    }
+
+    .red {
+        color: red;
     }
     .green {
         color: green;
     }
-    .black {
-        color: black;
+    .yellow {
+        color: #DAA520;
     }
     .purple {
         color: #aa00ff;
     }
+    .dred {
+         color: #c9070a;
+    }
 </style>
 
-<table id="tophackr">
+<table>
     <tr>
         <td>%%?CLIENT_AVATAR%%</td>
         <td>
@@ -32,7 +35,7 @@
                 <tr>
                     <th>Nickname:</th>
                     <td><span class="green">%%CLIENT_NAME%%</span>
-                        <span class="black"> / </span><span class="purple">%%?CLIENT_VOLUME_MODIFIER%% dB</span>
+                        <span> / </span><span class="purple">%%?CLIENT_VOLUME_MODIFIER%% dB</span>
                     </td>
                 </tr>
 
