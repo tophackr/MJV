@@ -2,18 +2,26 @@
 @author     Alexandr Musikhin 'tophackr' <tophackr@icloud.com>
 @link       https://tophackr.com
 
+=== 1.2.2.1 - 12.02.2018
+
++ Added new images in style
+- Removed descriptions
+* Change font style
+* Change descriptions groups in Russian language
+* Change other rgb to hex
+
 === 1.2.2 - 10.02.2018
 
-- Removing status icons in tree  
-- Removing css path ang home.css  
-* Update serverinfo.tpl for new version client (3.1.8+) and server (3.1.0+)  
+- Removing status icons in tree
+- Removing css path ang home.css
+* Update serverinfo.tpl for new version client (3.1.8+) and server (3.1.0+)
 * Minor Changes
 
 === 1.2.1 - 12.12.2017
 
-- Removed license icon in serverinfo.tpl  
-+ Added line License  
-* Fix colors slash in serverinfo.tpl and channelinfo.tpl  
+- Removed license icon in serverinfo.tpl
++ Added line License
+* Fix colors slash in serverinfo.tpl and channelinfo.tpl
 * Update conditions LICENSE
 
 === 1.2 - 11.12.2017
