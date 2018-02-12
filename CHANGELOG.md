@@ -4,7 +4,8 @@
 \- Removed descriptions  
 \* Change font style  
 \* Change descriptions groups in Russian language  
-\* Change other rgb to hex
+\* Change other rgb to hex  
+\* Minor Changes
 
 === 1.2.2 - 10.02.2018
 
