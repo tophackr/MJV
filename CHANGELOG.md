@@ -1,3 +1,11 @@
+=== 1.2.2.1 - 12.02.2018
+
+\+ Added new images in style  
+\- Removed descriptions  
+\* Change font style  
+\* Change descriptions groups in Russian language  
+\* Change other rgb to hex
+
 === 1.2.2 - 10.02.2018
 
 \- Removing status icons in tree  
