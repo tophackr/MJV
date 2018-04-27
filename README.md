@@ -1,7 +1,5 @@
 ## toptheme
 
-[![Version 1.2.2.1](https://img.shields.io/badge/Release-v1.2.2.1-brightgreen.svg?style=flat)](https://gitlab.com/tophackr/toptheme/tags/Release_v1.2.2.1)
-
 Minimalistic theme with full information about channels people and the server.  
 And dark theme reminiscent of the style of a telegram dark mode!
 
