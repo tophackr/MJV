@@ -11,7 +11,8 @@ Contacts [telegram](https://t.me/tophackr) or [email](mailto:tophackr@icloud.com
 It's recommended to use icons with [DarkenTS Icon Pack](https://www.myteamspeak.com/addons/0b57d54d-b46c-433d-8f7e-2eea28470007) or [Material-Icons for Teamspeak (White)](https://www.myteamspeak.com/addons/4f8b0ebf-eb4a-4c37-9c4f-366813ffcf79)
 
 ## Structure
-```
+<details><summary><b>Structure: (spoiler)</b></summary>
+<pre>
 ├── styles
 │   ├── toptheme
 │   │   ├── img
@@ -66,4 +67,5 @@ It's recommended to use icons with [DarkenTS Icon Pack](https://www.myteamspeak.
 ├── CHANGELOG.md
 ├── LICENSE
 └── README.md
-```
+</pre>
+</details>
