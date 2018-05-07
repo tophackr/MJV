@@ -48,7 +48,7 @@
 
     <tr>
         <th>Version:</th>
-        <td><span title="%%CLIENT_VERSION%%">%%CLIENT_VERSION_SHORT%%</span> on %%CLIENT_PLATFORM%% [<img src="styles:/toptheme/img/platforms/%%CLIENT_PLATFORM%%.png">] %%CLIENT_VERSION_STATE%%</td>
+        <td><span title="%%CLIENT_VERSION%%">%%CLIENT_VERSION_SHORT%%</span> on %%CLIENT_PLATFORM%% [<img src="styles:/toptheme/img/platforms/%%CLIENT_PLATFORM%%.svg" width="13" style="color:#fff;">]</td>
     </tr>
 
     <tr>
