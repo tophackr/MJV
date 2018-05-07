@@ -1,3 +1,7 @@
+=== 1.2.3 - 07.05.2018
+
+\* Global change images
+
 === 1.2.2.1 - 12.02.2018
 
 \+ Added new images in style  
