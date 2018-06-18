@@ -6,12 +6,15 @@ And dark theme reminiscent of the style of a telegram dark mode!
 - [Quick start](#quick-start)
 - [Structure](#structure)
 - [Contact](#contact)
-- [Recommended](#recommended)
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
 
 ## Quick start
-- [Download the latest version](https://gitlab.com/tophackr/toptheme/uploads/d895aaf244313f753837fd4fee022aa5/toptheme_v1.2.3.ts3_style)
+### Download
+- [Latest version](https://gitlab.com/tophackr/toptheme/uploads/d895aaf244313f753837fd4fee022aa5/toptheme_v1.2.3.ts3_style)
+
+### Recommended
+It's recommended to use icons with [DarkenTS Icon Pack](https://www.myteamspeak.com/addons/0b57d54d-b46c-433d-8f7e-2eea28470007) or [Material-Icons for Teamspeak (White)](https://www.myteamspeak.com/addons/4f8b0ebf-eb4a-4c37-9c4f-366813ffcf79)
 
 ## Structure
 <pre>
@@ -24,12 +27,12 @@ styles/
 │   │   │   │   ├── closed_hover.svg
 │   │   │   │   ├── open.svg
 │   │   │   │   └── open_hover.svg
-│   │   │   ├── disabled
+│   │   │   ├── disabled/
 │   │   │   │   ├── down.svg
 │   │   │   │   ├── left.svg
 │   │   │   │   ├── right.svg
 │   │   │   │   └── up.svg
-│   │   │   ├── enebled
+│   │   │   ├── enebled/
 │   │   │   │   ├── down.svg
 │   │   │   │   ├── left.svg
 │   │   │   │   ├── right.svg
@@ -73,9 +76,6 @@ styles/
 
 ## Contact
 If you have any problems, you can [open a new issue](https://gitlab.com/tophackr/toptheme/issues/new) or write an [email](mailto:tophackr@icloud.com).
-
-## Recommended
-It's recommended to use icons with [DarkenTS Icon Pack](https://www.myteamspeak.com/addons/0b57d54d-b46c-433d-8f7e-2eea28470007) or [Material-Icons for Teamspeak (White)](https://www.myteamspeak.com/addons/4f8b0ebf-eb4a-4c37-9c4f-366813ffcf79)
 
 ## Creators
 **Alexandr Musikhin**
