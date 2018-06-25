@@ -12,6 +12,7 @@ And dark theme reminiscent of the style of a telegram dark mode!
 ## Quick start
 ### Download
 - [Latest version](https://gitlab.com/tophackr/toptheme/uploads/d895aaf244313f753837fd4fee022aa5/toptheme_v1.2.3.ts3_style)
+- [Buy latest version](https://gum.co/toptheme)
 
 ### Recommended
 It's recommended to use icons with [DarkenTS Icon Pack](https://www.myteamspeak.com/addons/0b57d54d-b46c-433d-8f7e-2eea28470007) or [Material-Icons for Teamspeak (White)](https://www.myteamspeak.com/addons/4f8b0ebf-eb4a-4c37-9c4f-366813ffcf79)
