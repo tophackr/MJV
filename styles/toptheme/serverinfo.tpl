@@ -40,7 +40,7 @@
 
     <tr>
         <th>Version:</th>
-        <td title="%%SERVER_VERSION%%">%%SERVER_VERSION_SHORT%% on %%SERVER_PLATFORM%% [<img src="styles:/toptheme/img/platforms/%%SERVER_PLATFORM%%.png">]</td>
+        <td title="%%SERVER_VERSION%%">%%SERVER_VERSION_SHORT%% on %%SERVER_PLATFORM%% [<img src="styles:/toptheme/img/platforms/%%SERVER_PLATFORM%%.svg" width="13">]</td>
     </tr>
 
     <tr>
