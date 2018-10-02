@@ -1,4 +1,4 @@
-## toptheme
+## MJV
 Minimalistic theme with full information about channels people and the server.  
 And dark theme reminiscent of the style of a telegram dark mode!
 
@@ -68,4 +68,4 @@ If you have any problems, you can [open a new issue](https://gitlab.com/tophackr
 - <https://tophackr.com>
 
 ## Copyright and license
-Code copyright 2017-2018 the [toptheme authors](https://gitlab.com/tophackr/MJV/graphs/master). Code released under the [MIT License](https://gitlab.com/tophackr/MJV/blob/master/LICENSE).
+Code copyright 2017-2018 the [MJV authors](https://gitlab.com/tophackr/MJV/graphs/master). Code released under the [MIT License](https://gitlab.com/tophackr/MJV/blob/master/LICENSE).
