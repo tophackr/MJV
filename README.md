@@ -11,8 +11,8 @@ And dark theme reminiscent of the style of a telegram dark mode!
 
 ## Quick start
 ### Download
-- [Latest version](https://gitlab.com/tophackr/toptheme/uploads/d895aaf244313f753837fd4fee022aa5/toptheme_v1.2.3.ts3_style)
-- [Buy latest version](https://gum.co/toptheme)
+- [Latest version](https://gitlab.com/tophackr/MJV/uploads/80a9c0d5ad312e089e45915d71f659ab/MJV.ts3_style)
+- [Buy latest version](https://gum.co/MJVTS3)
 
 ### Recommended
 It's recommended to use icons with [DarkenTS Icon Pack](https://www.myteamspeak.com/addons/0b57d54d-b46c-433d-8f7e-2eea28470007) or [Material-Icons for Teamspeak (White)](https://www.myteamspeak.com/addons/4f8b0ebf-eb4a-4c37-9c4f-366813ffcf79)
@@ -20,36 +20,8 @@ It's recommended to use icons with [DarkenTS Icon Pack](https://www.myteamspeak.
 ## Structure
 <pre>
 styles/
-├── toptheme/
-│   ├── img/
-│   │   ├── arrows/
-│   │   │   ├── branch/
-│   │   │   │   ├── closed.svg
-│   │   │   │   ├── closed_hover.svg
-│   │   │   │   ├── open.svg
-│   │   │   │   └── open_hover.svg
-│   │   │   ├── disabled/
-│   │   │   │   ├── down.svg
-│   │   │   │   ├── left.svg
-│   │   │   │   ├── right.svg
-│   │   │   │   └── up.svg
-│   │   │   ├── enebled/
-│   │   │   │   ├── down.svg
-│   │   │   │   ├── left.svg
-│   │   │   │   ├── right.svg
-│   │   │   │   └── up.svg
-│   │   │   ├── header_down.svg
-│   │   │   └── header_up.svg
-│   │   ├── controls/
-│   │   │   ├── disabled/
-│   │   │   │   ├── checkbox_checked.svg
-│   │   │   │   ├── checkbox_checked_indeterminate.svg
-│   │   │   │   └── radiobutton_checked.svg
-│   │   │   ├── enebled/
-│   │   │   │   ├── checkbox_checked.svg
-│   │   │   │   ├── checkbox_checked_indeterminate.svg
-│   │   │   │   └── radiobutton_checked.svg
-│   │   │   └── separator.svg
+├── MJV/
+│   ├── gfx/
 │   │   ├── plarforms/
 │   │   │   ├── Android.svg
 │   │   │   ├── FreeBSD.svg
@@ -60,23 +32,34 @@ styles/
 │   │   │   ├── Windows.svg
 │   │   │   ├── iOS.svg
 │   │   │   └── macOS.svg
-│   │   ├── chatlog.svg
-│   │   └── logo.svg
-│   ├── change.log
+│   │   ├──left.svg
+│   │   ├──chat.svg
+│   │   ├──check-off.svg
+│   │   ├──check-on.svg
+│   │   ├──down.svg
+│   │   ├──ellipsish.svg
+│   │   ├──ellipsisv.svg
+│   │   ├──expand.svg
+│   │   ├──right.svg
+│   │   ├──separator.png
+│   │   ├──splitter.svg
+│   │   ├──times.svg
+│   │   ├──toggle-off.svg
+│   │   ├──toggle-on.svg
+│   │   ├──tophackr.png
+│   │   └──up.svg
 │   ├── channelinfo.tpl
 │   ├── clientinfo.tpl
 │   ├── serverinfo.tpl
 │   ├── tree_tooltip_channel.tpl
 │   └── tree_tooltip_client.tpl
-├── toptheme.qss
-├── toptheme_chat.qss
-├── toptheme_linux.qss
-├── toptheme_mac.qss
-└── toptheme_vista.qss
+├── MJV.qss
+├── MJV_chat.qss
+└── MJV_mac.qss
 </pre>
 
 ## Contact
-If you have any problems, you can [open a new issue](https://gitlab.com/tophackr/toptheme/issues/new) or write an [email](mailto:tophackr@icloud.com).
+If you have any problems, you can [open a new issue](https://gitlab.com/tophackr/MJV/issues/new) or write an [email](mailto:tophackr@icloud.com).
 
 ## Creators
 **Alexandr Musikhin**
@@ -85,4 +68,4 @@ If you have any problems, you can [open a new issue](https://gitlab.com/tophackr
 - <https://tophackr.com>
 
 ## Copyright and license
-Code copyright 2017-2018 the [toptheme authors](https://gitlab.com/tophackr/toptheme/graphs/master). Code released under the [MIT License](https://gitlab.com/tophackr/toptheme/blob/master/LICENSE).
+Code copyright 2017-2018 the [toptheme authors](https://gitlab.com/tophackr/MJV/graphs/master). Code released under the [MIT License](https://gitlab.com/tophackr/MJV/blob/master/LICENSE).
