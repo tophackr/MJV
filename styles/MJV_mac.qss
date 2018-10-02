@@ -1,0 +1,13 @@
+/*
+ * @package    TeamSpeak 3 Style
+ * @author     Alexandr Musikhin 'tophackr' <tophackr@icloud.com>
+ * @link       https://gitlab.com/tophackr/MJV
+ */
+
+QTabWidget::tab-bar {
+    alignment: left;
+}
+
+QDockWidget {
+    color: #000000;
+}

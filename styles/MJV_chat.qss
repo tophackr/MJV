@@ -1,7 +1,7 @@
 /*
  * @package    TeamSpeak 3 Style
  * @author     Alexandr Musikhin 'tophackr' <tophackr@icloud.com>
- * @link       https://tophackr.com
+ * @link       https://gitlab.com/tophackr/MJV
  */
 
 /* @group Global Elements */
@@ -12,23 +12,19 @@ p {
 }
 
 a {
-    color: #37E1CB;
+    color: #4CA4F6;
 }
 
 /* @end */
 
 /* @group Object Link Elements */
 
-.TextMessage_UserLink {
-    color: #0E837F;
-    font-weight: bold;
-    text-decoration: none;
-}
+.TextMessage_UserLink,
 
 .TextMessage_OfflineLink,
 .TextMessage_ChannelLink,
 .TextMessage_ServerLink {
-    color: #0E837F;
+    color: #4DA6F8;
     font-weight: bold;
     text-decoration: none;
 }
@@ -38,14 +34,14 @@ a {
 /* @group Colored Message Elements */
 
 .TextMessage_HostName {
-    color: #545454;
+    color: #4DA6F8;
     font-weight: bold;
 }
 
 .TextMessage_Welcome,
 .TextMessage_HostMessage,
 .TextMessage_Poke  {
-    color: #0AA537;
+    color: #93CD72;
 }
 
 .TextMessage_Normal,
@@ -69,13 +65,13 @@ a {
 .TextMessage_TalkPowerAssigned,
 .TextMessage_TalkPowerRevoked,
 .TextMessage_TalkPowerRequested {
-    color: #545454;
+    color: #FFFFFF;
 }
 
 .TextMessage_ClientDropped,
 .TextMessage_ClientKicked,
 .TextMessage_ClientBanned {
-    color: #C9070A;
+    color: #D87E7C;
 }
 
 /* @end */
@@ -83,13 +79,13 @@ a {
 /* @group Time and History Elements */
 
 .TextMessage_Time {
-    color: #545454;
+    color: #B4C3D3;
     font-weight: normal;
 }
 
 .TextMessage_BeginHistory,
 .TextMessage_EndHistory {
-    color: #707475;
+    color: #B4C3D3;
     font-weight: bold;
     font-style: italic;
 }
@@ -99,7 +95,7 @@ a {
 /* @group Error Message Elements */
 
 .TextMessage_ServerError {
-    color: #C9070A;
+    color: #D87E7C;
     font-weight: bold;
 }
 
