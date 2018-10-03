@@ -1,4 +1,6 @@
 ## MJV
+![MJV-pic](https://gitlab.com/tophackr/MJV/uploads/2c98ef9e97d0a03283a0b145332a7570/mjv.png)
+
 Dark mode with full information about channels people and the server.
 
 ## Content
