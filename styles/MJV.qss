@@ -1181,6 +1181,50 @@ QTableView::indicator:indeterminate {
     background-color: transparent;
 }
 
+QCalendarWidget {
+    border-collapse: collapse;
+}
+
+QCalendarWidget QCalendarView {
+    border: 1px solid #3C3D3F;
+    background-color: #292A2F;
+    alternate-background-color: #3C3D3F;
+}
+
+QCalendarWidget QAbstractItemView {
+    selection-background-color: #436890;
+    color: #B4C3D3;
+    selection-color: #FFFFFF;
+}
+
+QCalendarWidget QWidget#qt_calendar_navigationbar {
+    min-height: 30px;
+    border: 1px solid #3C3D3F;
+    background-color: #292A2F;
+}
+QCalendarWidget QWidget#qt_calendar_navigationbar QPrevNextCalButton#qt_calendar_prevmonth {
+    margin-left: 6px;
+}
+
+QCalendarWidget QWidget#qt_calendar_navigationbar QPrevNextCalButton#qt_calendar_nextmonth {
+    margin-right: 5px;
+}
+
+QCalendarWidget QWidget#qt_calendar_navigationbar QToolButton#qt_calendar_monthbutton {
+    min-width: 75px;
+}
+
+QCalendarWidget QWidget#qt_calendar_navigationbar QToolButton::menu-indicator {
+    height: 10px;
+    width: 10px;
+    subcontrol-position: center right;
+    image: url('styles:MJV/gfx/down.svg');
+}
+
+QWidget#Form {
+    background-color: #292A2F;
+}
+
 
 
 /* - - */
