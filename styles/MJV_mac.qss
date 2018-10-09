@@ -8,6 +8,14 @@ QTabWidget::tab-bar {
     alignment: left;
 }
 
+QTreeView::branch:selected {
+    background-color: #292A2F;
+}
+
 QDockWidget {
     color: #000000;
+}
+
+DragDropServerview QWidget {
+    color: #FFFFFF;
 }
