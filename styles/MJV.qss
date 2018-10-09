@@ -1194,6 +1194,5 @@ QSplitter::handle#whisperListsLocalRemoteSplitter {
 }
 
 BadgeIconWidget {
-    border-left: 64px solid red;
-    background: green;
+    border-left: 64px solid #292A2F;
 }
