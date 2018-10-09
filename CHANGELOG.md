@@ -3,4 +3,4 @@
 
 - First release
 
-[v1.0]: https://gitlab.com/tophackr/MJV/tags/v1.0
+[v1.0]: https://gitlab.com/tophackr/MJV/tags/v1.0-r
