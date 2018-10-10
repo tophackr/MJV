@@ -473,6 +473,7 @@ QScrollBar::add-page:vertical,
 QScrollBar::sub-page:vertical,
 QScrollBar::add-page:horizontal,
 QScrollBar::sub-page:horizontal {
+    background-color: transparent;
     opacity: 0;
 }
 
@@ -491,6 +492,7 @@ ChannelGroupsOfClientDialog QScrollBar:vertical {
 
 QScrollBar::handle:vertical:disabled,
 QScrollBar::handle:horizontal:disabled {
+    background-color: transparent;
     opacity: 0; /* dont work */
 }
 
