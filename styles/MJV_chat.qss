@@ -4,7 +4,7 @@
  * @link       https://gitlab.com/tophackr/MJV
  */
 
-/* @group Global Elements */
+/* @group Общие элементы */
 
 p {
     padding: 0px;
@@ -13,11 +13,12 @@ p {
 
 a {
     color: #4CA4F6;
+    text-decoration: none;
 }
 
 /* @end */
 
-/* @group Object Link Elements */
+/* @group Ссылки объектов */
 
 .TextMessage_UserLink,
 
@@ -25,13 +26,12 @@ a {
 .TextMessage_ChannelLink,
 .TextMessage_ServerLink {
     color: #4DA6F8;
-    font-weight: bold;
     text-decoration: none;
 }
 
 /* @end */
 
-/* @group Colored Message Elements */
+/* @group Цвета сообщений */
 
 .TextMessage_HostName {
     color: #4DA6F8;
@@ -44,7 +44,10 @@ a {
     color: #93CD72;
 }
 
-.TextMessage_Normal,
+.TextMessage_Normal {
+    color: #FFFFFF;
+}
+
 .TextMessage_Connected,
 .TextMessage_ClientConnected,
 .TextMessage_ClientJoined,
@@ -65,7 +68,7 @@ a {
 .TextMessage_TalkPowerAssigned,
 .TextMessage_TalkPowerRevoked,
 .TextMessage_TalkPowerRequested {
-    color: #FFFFFF;
+    color: #B4C3D3;
 }
 
 .TextMessage_ClientDropped,
@@ -76,7 +79,7 @@ a {
 
 /* @end */
 
-/* @group Time and History Elements */
+/* @group Время и история */
 
 .TextMessage_Time {
     color: #B4C3D3;
@@ -85,14 +88,14 @@ a {
 
 .TextMessage_BeginHistory,
 .TextMessage_EndHistory {
-    color: #B4C3D3;
+    color: #87CBCF;
     font-weight: bold;
     font-style: italic;
 }
 
 /* @end */
 
-/* @group Error Message Elements */
+/* @group Сообщения ошибок */
 
 .TextMessage_ServerError {
     color: #D87E7C;
