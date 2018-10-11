@@ -4,7 +4,8 @@
  * @link       https://gitlab.com/tophackr/MJV
  */
 
-/* - Основное - */
+/* @group Основное */
+
 QWidget#NewsBanner {
     background-color: transparent;
     color: #FFFFFF;
@@ -27,9 +28,9 @@ QListWidget QWidget {
     border: none;
 }
 
+/* @end */
 
-
-/* - Сервер лист - */
+/* @group Сервер лист */
 
 QWidget#page1,
 QWidget#page2 {
@@ -46,9 +47,9 @@ QToolBox::tab:selected {
     color: #FFFFFF;
 }
 
+/* @end */
 
-
-/* - Меню - */
+/* @group Меню */
 
 QMenuBar {
     margin-top: 6px;
@@ -68,9 +69,9 @@ QMenuBar::item:selected {
     color: #FFFFFF;
 }
 
+/* @end */
 
-
-/* - Под-меню - */
+/* @group Под-меню */
 
 QMenu {
     background-color: #292A2F;
@@ -108,9 +109,9 @@ QMenu::indicator:non-exclusive:checked {
     width: 16px;
 }
 
+/* @end */
 
-
-/* - Информация о подключении - */
+/* @group Информация о подключении */
 
 QTabWidget#byPacketTypeInformationTabWidget::pane,
 QTabWidget#tabWidget::pane {
@@ -122,9 +123,9 @@ QTabWidget#tabWidget::tab-bar {
     alignment: center;
 }
 
+/* @end */
 
-
-/* - Разрешения - */
+/* @group Разрешения */
 
 QWidget#scrollAreaWidgetContents {
     border: 1px solid #3C3D3F;
@@ -143,9 +144,9 @@ QWidget#easyPermissionsWidget {
     min-width: 536px;
 }
 
+/* @end */
 
-
-/* - Инструменты - */
+/* @group Инструменты */
 
 ImprovedWidget,
 PermissionsHelpWidget,
@@ -162,9 +163,9 @@ QFrame#downloadLimitFrame {
     border: none;
 }
 
+/* @end */
 
-
-/* - Текстовые поля - */
+/* @group Текстовые поля */
 
 QTextEdit {
     border: 1px solid #3C3D3F;
@@ -173,7 +174,6 @@ QTextEdit {
     selection-background-color: #456388;
     selection-color: #FFFFFF;
 }
-
 
 QTextEdit:hover,
 QTextEdit:focus {
@@ -188,9 +188,9 @@ QTextEdit#permLongDescTextEdit {
     min-width: 352px;
 }
 
+/* @end */
 
-
-/* - Панель инструментов - */
+/* @group Панель инструментов */
 
 QToolBar {
     border: none;
@@ -253,9 +253,9 @@ QToolBar#AddonBrowserToolBar {
     background-color: transparent;
 }
 
+/* @end */
 
-
-/* - Панель вкладок - */
+/* @group Панель вкладок */
 
 QTabBar {
     border-collapse: collapse;
@@ -339,9 +339,9 @@ QTabBar QToolButton::right-arrow:disabled {
     display: none;
 }*/
 
+/* @end */
 
-
-/* - Древо вкладок / Древо вида - */
+/* @group Древо вкладок / Древо вида */
 
 QWidget::pane {
     border: none;
@@ -381,9 +381,9 @@ QTreeView::item:selected:disabled {
     color: #B4C3D3;
 }
 
+/* @end */
 
-
-/* - Информационная вкладка - */
+/* @group Информационная вкладка */
 
 Banner {
     background: transparent;
@@ -395,9 +395,9 @@ TextBrowser#InfoFrame:focus {
     background-color: #292A2F;
 }
 
+/* @end */
 
-
-/* - Поисковая рамка (Ctrl+F) - */
+/* @group Поисковая рамка (Ctrl+F) */
 
 SearchFrame {
     min-height: 35px;
@@ -408,9 +408,9 @@ QPushButton#SearchFrameNextButton {
     min-width: 68px;
 }
 
+/* @end */
 
-
-/* - Вкладка чата - */
+/* @group Вкладка чата */
 
 TextBrowser#ChatTab,
 TextBrowser#ChatTab:focus {
@@ -434,9 +434,9 @@ QTextEdit#ChatLineEdit[helpTextVisible="false"] {
     background-color: #292A2F;
 }
 
+/* @end */
 
-
-/* - Полоса прокрутки - */
+/* @group Полоса прокрутки */
 
 QScrollBar:vertical {
     background-color: transparent;
@@ -496,9 +496,10 @@ QScrollBar::handle:horizontal:disabled {
     opacity: 0; /* dont work */
 }
 
+/* @end */
 
+/* @group Строка состояния */
 
-/* - Строка состояния - */
 QStatusBar,
 QStatusBar QLabel {
     background-color: #292A2F;
@@ -528,9 +529,9 @@ QSizeGrip {
     height: 0;
 }
 
+/* @end */
 
-
-/* - Опции - */ 
+/* @group Опции */ 
 
 QDialog#MsgDialog {
     background-color: #292A2F;
@@ -548,9 +549,9 @@ PokeDialog QTextBrowser#msgTextBrowser {
     border: none;
 }
 
+/* @end */
 
-
-/* -- Виджеты графического интерфейса -- */
+/* @group Виджеты графического интерфейса */
 
 QComboBox,
 QSpinBox,
@@ -699,14 +700,14 @@ QRadioButton:disabled {
     color: #B4C3D3;
 }
 
-
+/* @end */
 
 /* - CheckBox - */
 /* - CheckBox в группах (Пример: Инструменты -> Настройки -> Запись -> "Расширенные настройки" - */
 /* - CheckBox в Древе просмотра (Пример: Разрешения -> Группы сервера -> Разрешение (Отображение дополнительных разрешений) - */
 /* - RadioButton (Пример: Подключения -> Сервер лист -> Расширенный фильтр -> Пароль -> Показать все) - */
 
-/* - ServerGroup PermissionList */
+/* @group ServerGroup PermissionList */
 
 QListView::indicator,
 QListView::indicator:hover {
@@ -727,7 +728,8 @@ QListView::indicator:checked:disabled {
     background-color: transparent;
 }
 
-/* Check */
+/* @end */
+/* @group CheckBox */
 
 QCheckBox::indicator,
 QCheckBox::indicator:hover,
@@ -747,7 +749,8 @@ QCheckBox::indicator:checked:disabled {
     margin-right: 2px;
 }
 
-/* Group */
+/* @end */
+/* @group GroupBox */
 
 QGroupBox::indicator,
 QGroupBox::indicator:hover,
@@ -766,7 +769,8 @@ QGroupBox::indicator:checked:disabled {
     margin-right: 2px;
 }
 
-/* Tree */
+/* @end */
+/* @group TreeView */
 
 QTreeView::indicator,
 QTreeView::indicator:hover,
@@ -784,7 +788,8 @@ QTreeView::indicator:checked:disabled {
     image: url('styles:MJV/gfx/check-on.svg');
 }
 
-/* Radio */
+/* @end */
+/* @group RadioButton */
 
 QRadioButton::indicator,
 QRadioButton::indicator:hover,
@@ -810,7 +815,6 @@ QRadioButton::indicator:unchecked:disabled {
     margin-right: 2px;
 }
 
-
 QListView::indicator:indeterminate,
 QCheckBox::indicator:indeterminate,
 QGroupBox::indicator:indeterminate,
@@ -818,9 +822,9 @@ QTreeView::indicator:indeterminate {
     background-color: transparent;
 }
 
+/* @end */
 
-
-/* - Кнопка инструментов (Пример: Закладки -> Управление закладками -> Добавить закладку) - */
+/* @group Кнопка инструментов (Пример: Закладки -> Управление закладками -> Добавить закладку) */
 
 QToolButton,
 QToolButton:hover,
@@ -834,9 +838,9 @@ QToolButton:disabled {
     color: #B4C3D3;
 }
 
+/* @end */
 
-
-/* - Специальные случаи для предотвращения разногласия - */
+/* @group Специальные случаи для предотвращения разногласия */
 
 QToolButton#AwayButton,
 QToolButton#SpeakerMuteButton {
@@ -866,9 +870,9 @@ QToolButton#EmoticonButton:pressed:focus {
     background-color: transparent;
 }
 
+/* @end */
 
-
-/* - Ползунок (Пример: Инструменты -> Настройки -> Воспроизведение) - */
+/* @group Ползунок (Пример: Инструменты -> Настройки -> Воспроизведение) */
 
 QSlider::groove:horizontal {
     height: 3px;
@@ -918,9 +922,9 @@ QSlider::handle:vertical:disabled {
     background-color: #3C3D3F;
 }
 
+/* @end */
 
-
-/* - Горизонтальная линия (Пример: Инструменты -> Настройки -> Воспроизведение/Запись/Сообщения) - */
+/* @group Горизонтальная линия (Пример: Инструменты -> Настройки -> Воспроизведение/Запись/Сообщения) */
 
 QFrame#line,
 QFrame#line_2,
@@ -931,9 +935,9 @@ QFrame#accountActionsLine {
     background-color: #3C3D3F;
 }
 
+/* @end */
 
-
-/* - Индикатор выполнения (Пример: Инструменты -> Настройка -> Дополнения -> Онлайн браузер-> [Дополнение] -> Установить - Не влияет на индикатор выполнения файлового браузера) - */
+/* @group Индикатор выполнения (Пример: Инструменты -> Настройка -> Дополнения -> Онлайн браузер-> [Дополнение] -> Установить - Не влияет на индикатор выполнения файлового браузера) */
 
 QProgressBar {
     border: 1px solid #3C3D3F;
@@ -946,9 +950,9 @@ QProgressBar::chunk {
     background-color: #4DA6F8;
 }
 
+/* @end */
 
-
-/* - Предоставление списка (Пример: Инструменты -> Настройки -> Приложение ... Уведомления) - */
+/* @group Предоставление списка (Пример: Инструменты -> Настройки -> Приложение ... Уведомления) */
 
 QListView,
 QListView::item:hover {
@@ -1004,9 +1008,9 @@ QListView::item:selected:!active {
     background-color: #436890;
 }
 
+/* @end */
 
-
-/* - Таблицы (Пример: Подключения -> Сервер лист) - */
+/* @group Таблицы (Пример: Подключения -> Сервер лист) */
 
 QHeaderView,
 QHeaderView::section,
@@ -1049,7 +1053,9 @@ QTableWidget {
     selection-color: #FFFFFF;
 }
 
-/* - Звуковой 3D виджет (Пример: *ПКМ по каналу* -> Настроить 3D звук) - */
+/* @end */
+
+/* @group Звуковой 3D виджет (Пример: *ПКМ по каналу* -> Настроить 3D звук) */
 
 Sound3DWidget QWidget {
     background-color: #292A2F;
@@ -1070,9 +1076,9 @@ Sound3DWidget QPushButton::menu-indicator {
     subcontrol-position: center right;
 }
 
+/* @end */
 
-
-/* - Биты и части - */
+/* @group Биты и части */
 
 QLabel#avatarLabel {
     border: none;
@@ -1135,8 +1141,9 @@ QWidget VADDisplay {
     background-color: transparent;
 }
 
+/* @end */
 
-/* - - */
+/* @group */
 
 QTableWidget#hotkeyTableWidget,
 QAbstractItemView#messageTable,
@@ -1144,7 +1151,9 @@ QTreeView#eventsTreeView {
     border: 1px solid #3C3D3F;
 }
 
-/* - Поддержка плагинов / Поддержка неиспользуемых Qt элементов - */
+/* @end */
+
+/* @group Поддержка плагинов / Поддержка неиспользуемых Qt элементов */
 
 QDialog,
 AboutQt,
@@ -1228,9 +1237,9 @@ QWidget#Form {
     background-color: #292A2F;
 }
 
+/* @end */
 
-
-/* - - */
+/* @group */
 
 QSplitter::handle:vertical#bookmarksLocalRemoteSplitter,
 QSplitter::handle:vertical#identitiesLocalRemoteSplitter,
@@ -1243,3 +1252,5 @@ QSplitter::handle#whisperListsLocalRemoteSplitter {
 BadgeIconWidget {
     border-left: 64px solid #292A2F;
 }
+
+/* @end */
