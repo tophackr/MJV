@@ -35,25 +35,21 @@ a {
 
 .TextMessage_HostName {
     color: #4DA6F8;
-    font-weight: bold;
 }
 
 .TextMessage_Welcome,
 .TextMessage_HostMessage,
-.TextMessage_Poke  {
-    color: #93CD72;
+.TextMessage_Poke {
+    color: #F0AA78;
 }
 
-.TextMessage_Normal {
+.TextMessage_Message {
     color: #FFFFFF;
 }
 
-.TextMessage_Connected,
-.TextMessage_ClientConnected,
+.TextMessage_Normal,
 .TextMessage_ClientJoined,
 
-.TextMessage_Disconnected,
-.TextMessage_ClientDisconnected,
 .TextMessage_ClientSwitched,
 .TextMessage_ClientLeft,
 
@@ -70,6 +66,14 @@ a {
 .TextMessage_TalkPowerRequested {
     color: #B4C3D3;
 }
+
+.TextMessage_Connected,
+.TextMessage_ClientConnected {
+    color: #93CD72;
+}
+
+.TextMessage_Disconnected,
+.TextMessage_ClientDisconnected,
 
 .TextMessage_ClientDropped,
 .TextMessage_ClientKicked,
