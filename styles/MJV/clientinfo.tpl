@@ -29,7 +29,7 @@
 
         <tr>
             <th>Created:</th>
-            <td><span>%%CLIENT_CREATED%%</span><!-- / <span title="Total connections">%%CLIENT_TOTALCONNECTIONS%%</span>--></td>
+            <td><span>%%CLIENT_CREATED%%</span></td>
         </tr>
 
         <tr>
