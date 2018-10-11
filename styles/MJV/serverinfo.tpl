@@ -62,8 +62,8 @@
     <table>
         <tr>
             <td>
-                <a href="%%?SERVER_REFRESH_INACTIVE%%"><img src="iconpath:CHECK_UPDATE?size=12x12" height="12" width="12"> Refreshes</a>
-                <a href="%%?SERVER_REFRESH_ACTIVE%%"><img src="iconpath:REFRESH?size=12x12" height="12" width="12"> Refresh</a>
+                <a href="%%?SERVER_REFRESH_INACTIVE%%" class="red"><img src="iconpath:REFRESH?size=12x12" height="12" width="12"> Refreshes</a>
+                <a href="%%?SERVER_REFRESH_ACTIVE%%"><img src="iconpath:CHECK_UPDATE?size=12x12" height="12" width="12"> Refresh</a>
             </td>
         </tr>
     </table>
