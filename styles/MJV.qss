@@ -427,6 +427,7 @@ QTextEdit#ChatLineEdit[helpTextVisible="true"] {
     background-image: url('styles:MJV/gfx/tophackr.png');
     background-position: right middle;
     background-repeat: no-repeat;
+    color: #B4C3D3;
 }
 
 QTextEdit#ChatLineEdit[helpTextVisible="false"] {
