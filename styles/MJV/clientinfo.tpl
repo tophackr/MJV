@@ -11,7 +11,9 @@
 </style>
 
 <div class="Infoframe" title="<style type='text/css'>.red{color:#D87E7C;}.green{color:#93CD72;}.yellow{color:#E9D081;}.purple{color:#C394DD;}
-</style><table><tr><th colspan='2'>Client</th></tr><tr><td><b><nobr>Nickname:&nbsp;</nobr></b></td><td class='purple'><nobr>%%CLIENT_NAME%%</nobr></td></tr><tr><td><b><nobr>ID:&nbsp;</nobr></b></td><td class='green'><nobr>%%CLIENT_ID%%</nobr></td></tr><tr><td><b><nobr>DBID:&nbsp;</nobr></b></td><td class='red'><nobr>%%CLIENT_DATABASE_ID%%</nobr></td></tr><tr><td><b><nobr>Unique ID:&nbsp;</nobr></b></td><td class='yellow'><nobr>%%CLIENT_UNIQUE_ID%%</nobr></td></tr><br><tr><td><b><nobr>Total Connections:&nbsp;</nobr></b></td><td><nobr>%%CLIENT_TOTALCONNECTIONS%%</nobr></td></tr><tr><td><b><nobr>Last Connected:&nbsp;</nobr></b></td><td><nobr>%%CLIENT_LASTCONNECTED%%</nobr></td></tr><br><tr><td><b><nobr>Platform:&nbsp;</nobr></b></td><td><nobr>%%CLIENT_PLATFORM%%</nobr></td></tr><tr><td><b><nobr>Version:&nbsp;</nobr></b></td><td><nobr>%%CLIENT_VERSION%%</nobr></td></tr></table>">
+</style><table><tr><th colspan='2'>Client</th></tr><tr><td><b><nobr>Nickname:&nbsp;</nobr></b></td><td class='purple'><nobr>%%CLIENT_NAME%%</nobr></td></tr><tr><td><b><nobr>ID:&nbsp;</nobr></b></td><td class='green'><nobr>%%CLIENT_ID%%</nobr></td></tr><tr><td><b><nobr>DBID:&nbsp;</nobr></b></td><td class='red'><nobr>%%CLIENT_DATABASE_ID%%</nobr></td></tr><tr><td><b><nobr>Unique ID:&nbsp;</nobr></b></td><td class='yellow'><nobr>%%CLIENT_UNIQUE_ID%%</nobr></td></tr><br><tr><td><b><nobr>Total Connections:&nbsp;</nobr></b></td><td><nobr>%%CLIENT_TOTALCONNECTIONS%%</nobr></td></tr><tr><td><b><nobr>Last Connected:&nbsp;</nobr></b></td><td><nobr>%%CLIENT_LASTCONNECTED%%</nobr></td></tr><br><tr><td><b><nobr>Platform:&nbsp;</nobr></b></td><td><nobr>%%CLIENT_PLATFORM%%</nobr></td></tr><tr><td><b><nobr>Version:&nbsp;</nobr></b></td><td><nobr>%%CLIENT_VERSION%%</nobr></td></tr>
+<tr><td><b><nobr>Version State:&nbsp;</nobr></b></td><td><nobr>%%?CLIENT_VERSION_STATE%%</nobr></td></tr>
+</table>">
     <table>
         <tr>
             <th title="%%CLIENT_FLAG_AVATAR%%">Nickname:</th>
