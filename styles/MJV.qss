@@ -16,6 +16,7 @@ QMainWindow {
 }
 
 QWidget {
+    border: none;
     /*font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter";*/
     color: #FFFFFF;
 }
@@ -471,7 +472,7 @@ QScrollBar::add-page:vertical,
 QScrollBar::sub-page:vertical,
 QScrollBar::add-page:horizontal,
 QScrollBar::sub-page:horizontal {
-    background-color: transparent;
+    background-color: none;
     opacity: 0;
 }
 
@@ -1231,7 +1232,8 @@ QCalendarWidget QWidget#qt_calendar_navigationbar QToolButton::menu-indicator {
     image: url('styles:MJV/gfx/down.svg');
 }
 
-QWidget#Form {
+QWidget#Form,
+#addonsList {
     background-color: #292A2F;
 }
 
