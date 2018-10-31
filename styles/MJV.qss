@@ -1249,8 +1249,4 @@ QSplitter::handle#whisperListsLocalRemoteSplitter {
     height: 1em;
 }
 
-BadgeIconWidget {
-    border-left: 64px solid #292A2F;
-}
-
 /* @end */
