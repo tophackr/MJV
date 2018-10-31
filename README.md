@@ -12,8 +12,9 @@ Dark mode with full information about channels people and the server.
 
 ## Quick start
 ### Download
-- [Latest version](https://gitlab.com/tophackr/MJV/uploads/80a9c0d5ad312e089e45915d71f659ab/MJV.ts3_style)
+- [Latest version](https://gitlab.com/tophackr/MJV/uploads/c15e48d90db9092638817f72cf4bf445/MJV.ts3_style)
 - [Buy latest version](https://gum.co/MJVTS3)
+- [Version in MyTS](https://www.myteamspeak.com/addons/ee388cb4-122f-4fb0-82c2-bb57e11083b2)
 
 ### Recommended
 It's recommended to use icons with [DarkenTS Icon Pack](https://www.myteamspeak.com/addons/0b57d54d-b46c-433d-8f7e-2eea28470007) or [Material-Icons for Teamspeak (White)](https://www.myteamspeak.com/addons/4f8b0ebf-eb4a-4c37-9c4f-366813ffcf79)
