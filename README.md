@@ -1,5 +1,5 @@
 ## MJV
-![MJV-pic](https://gitlab.com/tophackr/MJV/uploads/2c98ef9e97d0a03283a0b145332a7570/mjv.png)
+![MJV-pic](https://gitlab.com/tophackr/MJV/uploads/305bfc42341b724da33db7c0f1628a6f/mjv.png)
 
 Dark mode with full information about channels people and the server.
 
@@ -14,7 +14,6 @@ Dark mode with full information about channels people and the server.
 ### Download
 - [Latest version](https://gitlab.com/tophackr/MJV/uploads/c15e48d90db9092638817f72cf4bf445/MJV.ts3_style)
 - [Buy latest version](https://gum.co/MJVTS3)
-- [Version in MyTS](https://www.myteamspeak.com/addons/ee388cb4-122f-4fb0-82c2-bb57e11083b2)
 
 ### Recommended
 It's recommended to use icons with [DarkenTS Icon Pack](https://www.myteamspeak.com/addons/0b57d54d-b46c-433d-8f7e-2eea28470007) or [Material-Icons for Teamspeak (White)](https://www.myteamspeak.com/addons/4f8b0ebf-eb4a-4c37-9c4f-366813ffcf79)
@@ -34,22 +33,22 @@ styles/
 │   │   │   ├── Windows.svg
 │   │   │   ├── iOS.svg
 │   │   │   └── macOS.svg
-│   │   ├──left.svg
-│   │   ├──chat.svg
-│   │   ├──check-off.svg
-│   │   ├──check-on.svg
-│   │   ├──down.svg
-│   │   ├──ellipsish.svg
-│   │   ├──ellipsisv.svg
-│   │   ├──expand.svg
-│   │   ├──right.svg
-│   │   ├──separator.png
-│   │   ├──splitter.svg
-│   │   ├──times.svg
-│   │   ├──toggle-off.svg
-│   │   ├──toggle-on.svg
-│   │   ├──tophackr.png
-│   │   └──up.svg
+│   │   ├── left.svg
+│   │   ├── chat.svg
+│   │   ├── check-off.svg
+│   │   ├── check-on.svg
+│   │   ├── down.svg
+│   │   ├── ellipsish.svg
+│   │   ├── ellipsisv.svg
+│   │   ├── expand.svg
+│   │   ├── right.svg
+│   │   ├── separator.png
+│   │   ├── splitter.svg
+│   │   ├── times.svg
+│   │   ├── toggle-off.svg
+│   │   ├── toggle-on.svg
+│   │   ├── tophackr.png
+│   │   └── up.svg
 │   ├── channelinfo.tpl
 │   ├── clientinfo.tpl
 │   ├── serverinfo.tpl
@@ -68,6 +67,7 @@ If you have any problems, you can [open a new issue](https://gitlab.com/tophackr
 - <https://twitter.com/tophackr_com>
 - <https://gitlab.com/tophackr>
 - <https://tophackr.com>
+- [TeamSpeak Server](ts3server://game-ts.com)
 
 ## Copyright and license
 Code copyright 2018 the [MJV authors](https://gitlab.com/tophackr/MJV/graphs/master). Code released under the [MIT License](https://gitlab.com/tophackr/MJV/blob/master/LICENSE).
