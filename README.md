@@ -11,7 +11,7 @@ And dark theme reminiscent of the style of a telegram dark mode!
 
 ## Quick start
 ### Download
-- [Latest version](https://gitlab.com/tophackr/toptheme/uploads/d895aaf244313f753837fd4fee022aa5/toptheme_v1.2.3.ts3_style)
+- [Latest version](https://gitlab.com/tophackr/MJV/uploads/d895aaf244313f753837fd4fee022aa5/toptheme_v1.2.3.ts3_style)
 - [Buy latest version](https://gum.co/toptheme)
 
 ### Recommended
@@ -76,7 +76,7 @@ styles/
 </pre>
 
 ## Contact
-If you have any problems, you can [open a new issue](https://gitlab.com/tophackr/toptheme/issues/new) or write an [email](mailto:tophackr@icloud.com).
+If you have any problems, you can [open a new issue](https://gitlab.com/tophackr/MJV/issues/new) or write an [email](mailto:tophackr@icloud.com).
 
 ## Creators
 **Alexandr Musikhin**
@@ -85,4 +85,4 @@ If you have any problems, you can [open a new issue](https://gitlab.com/tophackr
 - <https://tophackr.com>
 
 ## Copyright and license
-Code copyright 2017-2018 the [toptheme authors](https://gitlab.com/tophackr/toptheme/graphs/master). Code released under the [MIT License](https://gitlab.com/tophackr/toptheme/blob/master/LICENSE).
+Code copyright 2017-2018 the [toptheme authors](https://gitlab.com/tophackr/MJV/graphs/master). Code released under the [MIT License](https://gitlab.com/tophackr/MJV/blob/master/LICENSE).
