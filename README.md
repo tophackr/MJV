@@ -76,13 +76,13 @@ styles/
 </pre>
 
 ## Contact
-If you have any problems, you can [open a new issue](https://gitlab.com/tophackr/MJV/issues/new) or write an [email](mailto:tophackr@icloud.com).
+If you have any problems, you can [open a new issue](https://github.com/tophackr/MJV/issues/new) or write an [email](mailto:tophackr@icloud.com).
 
 ## Creators
 **Alexandr Musikhin**
 - <https://twitter.com/tophackr_com>
-- <https://gitlab.com/tophackr>
+- <https://github.com/tophackr>
 - <https://tophackr.com>
 
 ## Copyright and license
-Code copyright 2017-2018 the [toptheme authors](https://gitlab.com/tophackr/MJV/graphs/master). Code released under the [MIT License](https://gitlab.com/tophackr/MJV/blob/master/LICENSE).
+Code copyright 2017-2018 the [toptheme authors](https://github.com/tophackr/MJV/graphs/contributors). Code released under the [MIT License](https://github.com/tophackr/MJV/blob/toptheme/LICENSE).
