@@ -1,5 +1,5 @@
 ## MJV
-![MJV-pic](https://gitlab.com/tophackr/MJV/uploads/305bfc42341b724da33db7c0f1628a6f/mjv.png)
+![MJV-pic](mjv.png)
 
 Dark mode with full information about channels people and the server.
 
@@ -12,7 +12,7 @@ Dark mode with full information about channels people and the server.
 
 ## Quick start
 ### Download
-- [Latest version](https://gitlab.com/tophackr/MJV/uploads/c15e48d90db9092638817f72cf4bf445/MJV.ts3_style)
+- [Latest version](https://github.com/tophackr/MJV/releases/download/v1.1-r/MJV.ts3_style)
 - [Buy latest version](https://gum.co/MJVTS3)
 
 ### Recommended
@@ -60,14 +60,14 @@ styles/
 </pre>
 
 ## Contact
-If you have any problems, you can [open a new issue](https://gitlab.com/tophackr/MJV/issues/new) or write an [email](mailto:tophackr@icloud.com).
+If you have any problems, you can [open a new issue](https://github.com/tophackr/MJV/issues/new) or write an [email](mailto:tophackr@icloud.com).
 
 ## Creators
 **Alexandr Musikhin**
 - <https://twitter.com/tophackr_com>
-- <https://gitlab.com/tophackr>
+- <https://github.com/tophackr>
 - <https://tophackr.com>
-- [TeamSpeak Server](ts3server://game-ts.com)
+- [TeamSpeak Server](ts3server://abc)
 
 ## Copyright and license
-Code copyright 2018 the [MJV authors](https://gitlab.com/tophackr/MJV/graphs/master). Code released under the [MIT License](https://gitlab.com/tophackr/MJV/blob/master/LICENSE).
+Code copyright 2018 the [MJV authors](https://github.com/tophackr/MJV/graphs/contributors). Code released under the [MIT License](https://github.com/tophackr/MJV/blob/master/LICENSE).

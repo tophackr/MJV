@@ -30,5 +30,5 @@
 
 - First release
 
-[v1.1]: https://gitlab.com/tophackr/MJV/tags/v1.1-r
-[v1.0]: https://gitlab.com/tophackr/MJV/tags/v1.0-r
+[v1.1]: https://github.com/tophackr/MJV/releases/tag/v1.1-r
+[v1.0]: https://github.com/tophackr/MJV/releases/tag/v1.0-r
