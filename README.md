@@ -1,5 +1,7 @@
+>❗ Info  
+>MTV Theme out of support
+
 ## MJV
-[![mjv-buy](https://img.shields.io/badge/Buy%20now-v1.1-red.svg)](https://gum.co/MJVTS3)  
 ![MJV-pic](mjv.png)
 
 Dark mode with full information about channels people and the server.
