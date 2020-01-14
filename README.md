@@ -70,7 +70,7 @@ If you have any problems, you can [open a new issue](https://github.com/tophackr
 - <https://twitter.com/tophackr_com>
 - <https://github.com/tophackr>
 - <https://tophackr.com>
-- [TeamSpeak Server](ts3server://abc)
+- [TeamSpeak Server](https://l.tophackr.com/cySpmY989mPJ)
 
 ## Copyright and license
 Code copyright 2018 the [MJV authors](https://github.com/tophackr/MJV/graphs/contributors). Code released under the [MIT License](https://github.com/tophackr/MJV/blob/master/LICENSE).
